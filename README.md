@@ -2,7 +2,7 @@
 
 ![recording (1)](https://github.com/sreya-satheesh/realistic-earth/assets/168891722/c7d17e6d-9460-4e84-83b4-af06e68a5164)
 
-Creating a realistic Earth with Three.js involves more than just applying a texture. This project aims to simulate various natural phenomena to achieve a lifelike representation of the Earth.
+This project aims to simulate various natural phenomena to achieve a lifelike representation of the Earth.
 
 ## Features
 
