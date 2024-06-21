@@ -12,11 +12,7 @@ This project aims to simulate various natural phenomena to achieve a lifelike re
 - The transition zone between day and night (twilight) has a reddish hue.
 - The atmosphere surrounding the Earth creates a volumetric glow
 
-## Getting Started
-
-To get a local copy up and running, follow these steps:
-
-### Installation
+## Installation
 
 - Run npm install to install dependencies
 - Run npm run dev to launch the local server
