@@ -1,6 +1,6 @@
 # Realistic Earth using Three.js
 
-![Uploading recording1-ezgif.com-video-to-gif-converter.gif…]()
+![recording1-ezgif com-video-to-gif-converter](https://github.com/sreya-satheesh/realistic-earth/assets/168891722/f18426da-62d4-4066-b598-a23dd35e711e)
 
 This project aims to simulate various natural phenomena to achieve a lifelike representation of the Earth.
 
