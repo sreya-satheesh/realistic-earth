@@ -7,7 +7,6 @@ This project aims to simulate various natural phenomena to achieve a lifelike re
 ## Features
 
 - Cities on the dark side of the Earth are illuminated to show human activity.
-- Cloud layer.
 - Sun's reflection primarily visible on the oceans, not continents.
 - The transition zone between day and night (twilight) has a reddish hue.
 - The atmosphere surrounding the Earth creates a volumetric glow
